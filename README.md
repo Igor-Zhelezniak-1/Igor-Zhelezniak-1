@@ -13,7 +13,7 @@ My name is Igor and I'm student at <a href="http://mths.ca">St. Mother Teresa HS
 ## 💻 Operatiing Systems
 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 
 ## 🔧 Tools
 
